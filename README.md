@@ -1,7 +1,5 @@
 ## Olá, meu nome é <strong>{ Aquiles }!</strong>
 
-🔭 Sou desenvolvedor backend , apaixonado em NodeJs.
-
 
 ----
 
